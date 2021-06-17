@@ -1,1 +1,1 @@
-## Exercicios em python utilizando estrutura de decisão.
+## Exercicios em python. :computer:
